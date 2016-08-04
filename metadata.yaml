@@ -1,0 +1,48 @@
+_repo: The-Way-of-All-Flesh_2084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: "The Way of All Flesh (1903) is a semi-autobiographical novel by Samuel\
+  \ Butler that attacks Victorian-era hypocrisy. Written between 1873 and 1884, it\
+  \ traces four generations of the Pontifex family. Butler dared not publish it during\
+  \ his lifetime, but when it was published it was accepted as part of the general\
+  \ reaction against Victorianism.\nIn 1998, the Modern Library ranked The Way of\
+  \ All Flesh twelfth on its list of the 100 best English-language novels of the 20th\
+  \ century\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2084'
+  wikidata: Q255074
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Middle class -- Fiction'
+- !lcsh 'Parent and adult child -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- GITenberg
+title: The Way of All Flesh
+url: http://www.gutenberg.org/ebooks/2084
+wikipedia:
+- https://eo.wikipedia.org/wiki/La_Vojo_de_%C4%88ia_Karno_(romano_de_Samuel_Butler)
+- https://sh.wikipedia.org/wiki/The_Way_of_All_Flesh_(roman)
+- https://zh.wikipedia.org/wiki/%E4%BC%97%E7%94%9F%E4%B9%8B%E8%B7%AF
+- https://en.wikipedia.org/wiki/The_Way_of_All_Flesh
+- https://it.wikipedia.org/wiki/Cos%C3%AC_muore_la_carne
+- https://br.wikipedia.org/wiki/The_Way_of_All_Flesh
